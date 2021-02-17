@@ -6,18 +6,18 @@ const ProductList = () => {
         <div>
             <ul className="row product-list">
              <li className="col-3">
-              <ProductItem title="Asan"  title="description"/>
+              <ProductItem title="Asan"  description="sdfsdfsd"/>
               </li> 
 
               <li className="col-3">
-              <ProductItem title="Hasan"  title="description" />
+              <ProductItem title="Hasan"  description="dsfdsfdsf" />
               </li>  
 
               <li className="col-3">
-              <ProductItem title="Ali" title="description"/>
+              <ProductItem title="Ali" description="descripdsfsdfsdftion"/>
               </li>  
               <li className="col-3">
-              <ProductItem title="Asi" title="description"/>
+              <ProductItem title="Asi" description="descripsdfsdfdstion"/>
               </li>  
             </ul>
         </div>
